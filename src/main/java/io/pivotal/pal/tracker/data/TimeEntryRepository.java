@@ -1,4 +1,6 @@
-package io.pivotal.pal.tracker;
+package io.pivotal.pal.tracker.data;
+
+import io.pivotal.pal.tracker.model.TimeEntry;
 
 import java.util.List;
 
